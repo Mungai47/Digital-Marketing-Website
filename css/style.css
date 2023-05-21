@@ -18,3 +18,40 @@ body{
     width: 70%;
 
 }
+.third-container{
+    background-color: #ffffff;
+
+}
+.fourth-continer{
+    background-color: rgb(255, 255, 255);
+    width: 100%;
+    padding: 10px 10%;
+}
+
+@media (max-width: 768px) {
+    .center-content {
+      text-align: center;
+    }
+  }
+
+h1{
+    font-size: 500%;
+    font-weight: 900;
+    color: #000000;
+    margin: 0;
+    padding: 20px 0px 5px 0px;
+}
+h2{
+    font-size: 350%;
+    font-weight: 700;
+    color: #1a1a1a;
+    margin: 0;
+    padding: 20px 0px 5px 0px;
+}
+h3{
+    font-size: 150%;
+    font-weight: 900;
+    color: #000000;
+    margin: 0;
+    padding: 0;
+}
